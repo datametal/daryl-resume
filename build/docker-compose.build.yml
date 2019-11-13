@@ -1,0 +1,19 @@
+## This docker-compose config file is used to define build processes for the
+## images in this repository, and for development deployment.
+##
+## It is not meant for use in production deployments. See the deployment/
+## directory for production deployment configurations.
+
+version: '3.7'
+
+services:
+  resume:
+    image: 'darylwalsh/resume:${VERSION}'
+    build:
+      context: ../
+      dockerfile: ./build/Dockerfile
+      args:
+        BUILD_VERSION: '${VERSION}'
+      cache_from:
+        - darylwalsh/darylresume:latest
+        - nginx:1-alpine
