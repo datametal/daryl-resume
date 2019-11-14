@@ -21,6 +21,21 @@
   ],
   "experiences": [
     {
+      "title": "Avanzado",
+      "timestamp": "React.js, Bootstrap, Express, Node.js, GIT, HTML/HTML 5, CSS/CSS3, Responsive Design, Ansible",
+      "points": [
+        "Developed and maintained web and intranet applications for printing industry clients.",
+        "Also designed and developed Ansible based process to migrate hosting from on-premise to cloud."
+      ]
+    },
+    {
+      "title": "ADMI",
+      "timestamp": "Node, React, GIT, HTML, CSS, Bootstrap, Responsive Design, Oracle",
+      "points": [
+        "Developed extranet applications to interface with external clients and allow client self-service/data retrieval for auto industry clients."
+      ]
+    },
+    {
       "title": "Blue Cross Blue Shield of Michigan",
       "timestamp": "Angular.js, SQL Server, Bootstrap, SASS, ColdFusion, Express, Node.js, Jasmine, bower, grunt, GIT, HTML/HTML 5, CSS/CSS3, Responsive Design, Ajax",
       "points": [
