@@ -7,7 +7,12 @@
           <h4>{{ proj.link.title }}</h4>
         </a>
         <h4 v-if="proj.timestamp" class="timestamp">{{ proj.timestamp }}</h4>
-        <a v-if="proj.flair && proj.flair.url" class="flair" :href="proj.flair.url" target="_blank">
+        <a
+          v-if="proj.flair && proj.flair.url"
+          class="flair"
+          :href="proj.flair.url"
+          target="_blank"
+        >
           <h5>{{ proj.flair.title }}</h5>
         </a>
         <h5 v-else-if="proj.flair" class="flair">{{ proj.flair }}</h5>

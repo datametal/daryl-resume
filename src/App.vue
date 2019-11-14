@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import Resume from "@/Resume.vue";
+import Resume from '@/Resume.vue'
 
 // App contains global styling and functions as a wrapper for the Resume
 // component.
@@ -11,12 +11,12 @@ export default {
   data: () => ({ data: {} }),
   // Fetch JSON data upon creation.
   created: function() {
-    fetch("data.json")
+    fetch('data.json')
       .then(res => res.json())
-      .then(data => (this.data = data));
+      .then(data => (this.data = data))
   },
   components: { Resume },
-};
+}
 </script>
 
 <style lang="scss">
@@ -30,7 +30,7 @@ body {
 
   // Configure default font styling.
   font-size: 11pt;
-  font-family: "Ubuntu Mono", "Courier New", Courier, monospace;
+  font-family: 'Ubuntu Mono', 'Courier New', Courier, monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 

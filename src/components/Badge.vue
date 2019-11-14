@@ -10,7 +10,7 @@ export default {
   props: {
     source: { type: Object, default: () => ({}) },
   },
-};
+}
 </script>
 
 <style lang="scss" scoped>

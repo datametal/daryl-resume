@@ -8,13 +8,13 @@
 <script>
 export default {
   props: {
-    title: { type: String, default: "" },
+    title: { type: String, default: '' },
   },
-};
+}
 </script>
 
 <style lang="scss" scoped>
-@import "@/mixins/_colors.scss";
+@import '@/mixins/_colors.scss';
 
 h2.title {
   margin-bottom: 5px;

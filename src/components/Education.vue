@@ -9,14 +9,14 @@
 </template>
 
 <script>
-import Section from "./Section.vue";
+import Section from './Section.vue'
 
 export default {
   props: {
     data: { type: Array, default: () => [] },
   },
-  components: { "resume-section": Section },
-};
+  components: { 'resume-section': Section },
+}
 </script>
 
 <style lang="scss" scoped>
