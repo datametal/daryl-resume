@@ -5,14 +5,14 @@ version: "3.4"
 
 services:
   resume_test:
-    image: "darylwalsh/resume:${VERSION}"
+    image: "darylwalsh/darylresume:${VERSION}"
     build:
       context: ../
       dockerfile: ./build/Dockerfile
       args:
         BUILD_VERSION: "${VERSION}"
       cache_from:
-        - darylwalsh/resume:latest
+        - darylwalsh/darylresume:latest
         - nginx:1-alpine
     container_name: resume_test
     command: ["nginx", "-t"]

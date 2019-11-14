@@ -8,7 +8,7 @@ version: '3.7'
 
 services:
   resume:
-    image: 'darylwalsh/resume:${VERSION}'
+    image: 'darylwalsh/darylresume:${VERSION}'
     build:
       context: ../
       dockerfile: ./build/Dockerfile

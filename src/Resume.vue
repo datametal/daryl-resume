@@ -67,7 +67,7 @@ export default {
 <style lang="scss" scoped>
 .resume {
   width: 8.5in;
-  height: 55in;
+  height: 66in;
   display: flex;
   flex-direction: column;
 

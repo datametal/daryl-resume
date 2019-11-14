@@ -9,6 +9,8 @@ jsconfig.json
 
 ## [Git]
 .gitignore
+.git
+.git/
 
 ## git-secret:
 .gitsecret/
@@ -42,3 +44,6 @@ Thumbs.db
 
 ## IntelliJ
 .idea/
+
+charts
+charts/
