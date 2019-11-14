@@ -1,7 +1,7 @@
 <template>
   <resume-section title="QUALIFICATIONS">
     <div class="section langs">
-      <h2>languages</h2>
+      <h2>front-end</h2>
       <div class="tags">
         <p v-for="lang in languages" :key="lang">{{ lang }}</p>
       </div>
@@ -12,10 +12,40 @@
         <p v-for="lib in libraries" :key="lib">{{ lib }}</p>
       </div>
     </div>
+    <div class="section middlewares">
+      <h2>middleware</h2>
+      <div class="section tags">
+        <p v-for="lib in middlewares" :key="lib">{{ lib }}</p>
+      </div>
+    </div>
+    <div class="section testings">
+      <h2>testing</h2>
+      <div class="section tags">
+        <p v-for="tdd in testings" :key="tdd">{{ tdd }}</p>
+      </div>
+    </div>
+    <div class="section scriptings">
+      <h2>scripting</h2>
+      <div class="section tags">
+        <p v-for="script in scriptings" :key="script">{{ script }}</p>
+      </div>
+    </div>
+    <div class="section databases">
+      <h2>database</h2>
+      <div class="section tags">
+        <p v-for="database in databases" :key="database">{{ database }}</p>
+      </div>
+    </div>
     <div class="section techs">
-      <h2>technologies</h2>
+      <h2>devop technologies</h2>
       <div class="tags">
         <p v-for="tech in technologies" :key="tech">{{ tech }}</p>
+      </div>
+    </div>
+    <div class="section clouds">
+      <h2>cloud</h2>
+      <div class="tags">
+        <p v-for="cloud in clouds" :key="cloud">{{ cloud }}</p>
       </div>
     </div>
   </resume-section>
@@ -32,6 +62,11 @@ export default {
     languages: propType,
     libraries: propType,
     technologies: propType,
+    clouds: propType,
+    middlewares: propType,
+    testings: propType,
+    scriptings: propType,
+    databases: propType,
   },
   components: { 'resume-section': Section },
 }
@@ -71,8 +106,32 @@ h2 {
   color: $lib-color-dark;
 }
 
+.middlewares p {
+  background-color: rgba($middleware-color, 0.22);
+  color: $middleware-color-dark;
+}
+
+.testings p {
+  background-color: rgba($testing-color, 0.22);
+  color: $testing-color-dark;
+}
+
+.scriptings p {
+  background-color: rgba($scripting-color, 0.22);
+  color: $scripting-color-dark;
+}
+.databases p {
+  background-color: rgba($database-color, 0.22);
+  color: $database-color-dark;
+}
+
 .techs p {
   background-color: rgba($tech-color, 0.25);
   color: $tech-color-dark;
+}
+
+.clouds p {
+  background-color: rgba($cloud-color, 0.22);
+  color: $cloud-color-dark;
 }
 </style>

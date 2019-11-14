@@ -337,37 +337,66 @@
   "skills": {
     "languages": [
       "Javascript",
+      "TypeScript",
       "HTML",
       "CSS",
-      "Elixir",
-      "PHP",
-      "Python",
-      "Go",
-      "PERL",
-      "Ruby",
-      "Shell Scripting",
-      "SQL"
+      "jQuery",
+      "SASS",
+      "Bootstrap",
+      "Emotion",
+      "Bulma",
+      "CSS-in-JS",
+      "React Spring"
     ],
     "libraries": [
       "React",
       "React Native",
       "React Hooks",
       "Redux",
+      "GraphQL",
+      "Next.js",
+      "Gatsby",
       "Express",
       "Vue",
       "Angular"
     ],
+    "middlewares": ["Node", "Phoenix", "PHP", "Ruby on Rails", "Spring Boot"],
+    "testings": [
+      "Jest",
+      "RTL",
+      "Cypress",
+      "Cucumber",
+      "Karma",
+      "Protractor",
+      "Puppeteer",
+      "Chai",
+      "Mocha",
+      "Selenium"
+    ],
+    "scriptings": ["Elixir", "Python", "Go", "Shell Scripting"],
+    "databases": [
+      "Postgres",
+      "MySQL/MariaDB",
+      "SQL Server",
+      "Oracle",
+      "MongoDB"
+    ],
+    "clouds": [
+      "Amazon Web Services (AWS)",
+      "Google Cloud Platform (GCP)",
+      "Digital Ocean (DO)",
+      "IBM Cloud",
+      "Amplify Serverless"
+    ],
     "technologies": [
+      "Ansible",
       "Docker",
-      "Docker Swarm",
+      "Docker Compose/Swarm",
       "Kubernetes",
       "Helm",
       "Git",
       "Postman",
-      "Terraform",
-      "Node",
-      "SQL (Postgres, Oracle, SQL Server, MySQL/MariaDB)",
-      "MongoDB"
+      "Terraform"
     ]
   },
   "meta": {

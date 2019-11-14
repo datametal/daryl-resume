@@ -97,8 +97,7 @@ a.flair { text-decoration: none; }
     }
 
     &::before {
-      content: '– ';
-      margin-left: -1em;
+      margin-left: -2em;
     }
   }
 }

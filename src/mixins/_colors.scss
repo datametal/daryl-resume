@@ -1,7 +1,17 @@
 $lang-color: rgb(24, 188, 114);
 $lib-color: rgb(86, 161, 247);
 $tech-color: rgb(210, 142, 238);
+$cloud-color: rgb(252, 165, 3);
+$middleware-color: rgb(247, 5, 17);
+$testing-color: rgb(243, 247, 5);
+$scripting-color: rgb(203, 206, 209);
+$database-color: rgb(49, 133, 196);
 
 $lang-color-dark: darken($lang-color, 12%);
 $lib-color-dark: darken($lib-color, 18%);
 $tech-color-dark: darken($tech-color, 21%);
+$cloud-color-dark: darken($cloud-color, 12%);
+$middleware-color-dark: darken($middleware-color, 12%);
+$testing-color-dark: darken($testing-color, 21%);
+$scripting-color-dark: darken($scripting-color, 21%);
+$database-color-dark: darken($database-color, 21%);
