@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.19](https://github.com/darylwalsh/darylresume/compare/v0.1.18...v0.1.19) (2019-11-20)
+
+
+### Features
+
+* **updates_pdf:** updated/added pdf ([dc3c19b](https://github.com/darylwalsh/darylresume/commit/dc3c19b7ed4284908ecc3379d0035bc52b2e9c00))
+
 ### [0.1.18](https://github.com/darylwalsh/darylresume/compare/v0.1.17...v0.1.18) (2019-11-14)
 
 ### [0.1.17](https://github.com/darylwalsh/darylresume/compare/v0.1.16...v0.1.17) (2019-11-14)
