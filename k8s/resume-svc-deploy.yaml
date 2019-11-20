@@ -1,0 +1,38 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: resume
+  namespace: kube-logging
+  labels:
+    app: resume
+spec:
+  type: ClusterIP
+  ports:
+    - port: 80
+      targetPort: 80
+  selector:
+    app: resume
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: resume
+  namespace: kube-logging
+  labels:
+    version: v1
+spec:
+  selector:
+    matchLabels:
+      app: resume
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: resume
+        version: v1
+    spec:
+      containers:
+        - name: resume
+          image: darylwalsh/resume:1.0
+          ports:
+            - containerPort: 80

@@ -1,7 +1,9 @@
 <template>
   <resume-section title="RECENT PROJECTS">
     <div class="item" v-for="(proj, i) in data" :key="i">
-      <h3 class="name">{{ proj.name }}</h3>
+      <a v-if="proj.name" class="link" :href="proj.name.url" target="_blank">
+        <h3 class="name">{{ proj.name.title }}</h3>
+      </a>
       <div class="description">
         <a v-if="proj.link" class="link" :href="proj.link.url" target="_blank">
           <h4>{{ proj.link.title }}</h4>

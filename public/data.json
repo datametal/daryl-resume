@@ -272,7 +272,10 @@
   ],
   "projects": [
     {
-      "name": "reactolatry.io",
+      "name": {
+        "title": "reactolatry.io",
+        "url": "http://www.reactolatry.io"
+      },
       "link": {
         "title": "github.com/darylwalsh/ecto-phx-gql-react",
         "url": "https://github.com/daryl-walsh/ecto-phx-gql-react"
@@ -325,8 +328,8 @@
     {
       "name": "gitopsreact.com",
       "link": {
-        "title": "gitlab.com/darylwalsh/gitopsreact-dot-com",
-        "url": "https://gitlab.com/darylwalsh/gitopsreact-dot-com"
+        "title": "github.com/darylwalsh/gitopsreact-dot-com",
+        "url": "https://github.com/darylwalsh/gitopsreact-dot-com"
       },
       "points": [
         "Test-Driven Development (TDD) throughout the project",
@@ -394,7 +397,8 @@
       "MySQL/MariaDB",
       "SQL Server",
       "Oracle",
-      "MongoDB"
+      "MongoDB",
+      "Redis"
     ],
     "clouds": [
       "Amazon Web Services (AWS)",
@@ -411,7 +415,10 @@
       "Helm",
       "Git",
       "Postman",
-      "Terraform"
+      "Terraform",
+      "travis-ci",
+      "circleci",
+      "jenkins"
     ]
   },
   "meta": {
