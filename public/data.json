@@ -273,7 +273,7 @@
   "projects": [
     {
       "name": {
-        "title": "reactolatry.io",
+        "title": "www.reactolatry.io",
         "url": "http://www.reactolatry.io"
       },
       "link": {
@@ -286,7 +286,10 @@
       ]
     },
     {
-      "name": "hooroo.sh",
+      "name": {
+        "title": "www.hooroo.sh",
+        "url": "http://www.hooroo.sh"
+      },
       "link": {
         "title": "gitlab.com/darylwalsh/hooroosh",
         "url": "https://gitlab.com/darylwalsh/hooroosh"
@@ -297,7 +300,10 @@
       ]
     },
     {
-      "name": "smallbatchreact.io",
+      "name": {
+        "title": "stage.smallbatchreact.io",
+        "url": "http://stage.smallbatchreact.io"
+      },
       "link": {
         "title": "github.com/darylwalsh/small-batch-react",
         "url": "https://github.com/daryl-walsh/small-batch-react"
@@ -326,7 +332,7 @@
       ]
     },
     {
-      "name": "gitopsreact.com",
+      "name": { "title": "gitopsreact" },
       "link": {
         "title": "github.com/darylwalsh/gitopsreact-dot-com",
         "url": "https://github.com/darylwalsh/gitopsreact-dot-com"
