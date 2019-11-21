@@ -26,6 +26,7 @@ spec:
     spec:
       containers:
         - name: hello-kubernetes
-          image: darylwalsh/resume:1.2
+          image: darylwalsh/darylresume:1.0
+          imagePullPolicy: Always
           ports:
             - containerPort: 80

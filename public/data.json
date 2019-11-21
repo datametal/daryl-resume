@@ -17,6 +17,11 @@
       "title": "gitlab.com/darylwalsh",
       "url": "https://www.gitlab.com/darylwalsh",
       "icon": "fab fa-gitlab"
+    },
+    {
+      "title": "Daryl Walsh PDF",
+      "url": "https://github.com/darylwalsh/darylresume/raw/master/DarylWalshResume.pdf",
+      "icon": "fas fa-file-pdf"
     }
   ],
   "experiences": [
@@ -422,9 +427,10 @@
       "Git",
       "Postman",
       "Terraform",
-      "travis-ci",
-      "circleci",
-      "jenkins"
+      "Travis-ci",
+      "Circleci",
+      "Jenkins",
+      "Linux (CentOS/RedHat, Debian/Ubuntu, Arch)"
     ]
   },
   "meta": {

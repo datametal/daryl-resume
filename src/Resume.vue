@@ -81,9 +81,10 @@ export default {
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
-  padding: 2em;
+  padding: 0em;
   padding-top: 1.2em;
   padding-right: 0.8em;
+  padding-left: 1.8em;
   flex: 1;
 }
 .content {
