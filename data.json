@@ -27,7 +27,7 @@
   "experiences": [
     {
       "title": "ExamBuilder",
-      "timestamp": "Javascript, Bootstrap, CSS, HTML, Oracle",
+      "timestamp": "Javascript, CSS, HTML, Oracle",
       "points": [
         "Role –  Developer - Contract",
 
@@ -152,6 +152,21 @@
         "Additional responsibilities:",
         "• Maintained PepsiCo’s shipping application CODA (HTML/CSS/js with an Oracle back-end)",
         "• Provided support for a jsp Documentum application."
+      ]
+    },
+    {
+      "title": "ExamBuilder",
+      "timestamp": "jQuery/javascript, CSS, HTML, ColdFusion, Oracle",
+      "points": [
+        "Role –  Developer - Contract",
+
+        "Developed Version 7.0 of ExamBuilder’s exam building application which is used by companies such as UBS, Microsoft, Medtronic to build, administer and track exams given to employees.",
+        "• Worked with another developer to formulate a Ruby on Rails REST style framework (no code generation, only for organizing code).",
+        "• Divided actual building of application with 2nd developer so each developer was responsible for all aspects of their part of the application.",
+        "• Calls to Oracle 10g database were made to Oracle stored procedures via REST interface",
+        "•  RESTful Interface used to deliver data to front-end and to validate and write data to Oracle database.",
+        "• Front-end written in HTML, CSS and Javascript using jQuery and some Ajax.",
+        "• ExamBuilder application in production for a decade was updated after we completed development and our code is currently in service to companies in the U.S., Canada, Europe and Asia."
       ]
     },
     {
@@ -409,8 +424,7 @@
       "SQL Server",
       "Oracle",
       "MongoDB",
-      "Redis",
-      "TinkerPop"
+      "Redis"
     ],
     "clouds": [
       "Amazon Web Services (AWS)",
