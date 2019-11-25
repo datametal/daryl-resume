@@ -27,7 +27,7 @@
   "experiences": [
     {
       "title": "ExamBuilder",
-      "timestamp": "Javascript, Bootstrap, CSS, HTML, Oracle",
+      "timestamp": "Javascript, React, Bootstrap, CSS, HTML, Oracle",
       "points": [
         "Role –  Developer - Contract",
 
@@ -36,7 +36,7 @@
         "• Divided actual building of application with 2nd developer so each developer was responsible for all aspects (front-end and back-end/full-stack development) of their part of the application.",
         "• Calls to Oracle database were made to Oracle stored procedures via REST interface",
         "•  RESTful Interface used to deliver data to front-end and to validate and write data to Oracle database.",
-        "• Front-end written in HTML, CSS and Javascript using jQuery and some Ajax.",
+        "• Front-end written in HTML, CSS and Javascript using javascript based React.",
         "• ExamBuilder application in production for a decade was updated after we completed development and our code is currently in service to companies in the U.S., Canada, Europe and Asia."
       ]
     },
