@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.28](https://github.com/darylwalsh/darylresume/compare/v0.1.27...v0.1.28) (2019-11-25)
+
+
+### Features
+
+* **updated 1.4:** update to v1.4 ([6467503](https://github.com/darylwalsh/darylresume/commit/64675036ca68ecbc2f54c3c30eb6e00ca242dede))
+
 ### [0.1.27](https://github.com/darylwalsh/darylresume/compare/v0.1.26...v0.1.27) (2019-11-25)
 
 
