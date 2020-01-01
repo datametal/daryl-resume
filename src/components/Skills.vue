@@ -12,6 +12,12 @@
         <p v-for="lib in libraries" :key="lib">{{ lib }}</p>
       </div>
     </div>
+    <div class="section uidesigns">
+      <h2>ui design</h2>
+      <div class="section tags">
+        <p v-for="lib in uidesigns" :key="lib">{{ lib }}</p>
+      </div>
+    </div>
     <div class="section middlewares">
       <h2>middleware</h2>
       <div class="section tags">
@@ -67,6 +73,7 @@ export default {
     testings: propType,
     scriptings: propType,
     databases: propType,
+    uidesigns: propType,
   },
   components: { 'resume-section': Section },
 }
@@ -104,6 +111,11 @@ h2 {
 .libs p {
   background-color: rgba($lib-color, 0.22);
   color: $lib-color-dark;
+}
+
+.uidesigns p {
+  background-color: rgba($uidesign-color, 0.22);
+  color: $uidesign-color-dark;
 }
 
 .middlewares p {

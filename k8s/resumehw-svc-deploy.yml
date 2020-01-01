@@ -1,32 +1,38 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: hello-kubernetes-first
+  name: darylresume
+  namespace: darylresume
+  labels:
+    app: darylresume
 spec:
   type: ClusterIP
   ports:
     - port: 80
       targetPort: 80
   selector:
-    app: hello-kubernetes-first
+    app: darylresume
 ---
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: hello-kubernetes-first
+  name: darylresume
+  namespace: darylresume
+  labels:
+    version: v1
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: hello-kubernetes-first
+      app: darylresume
   template:
     metadata:
       labels:
-        app: hello-kubernetes-first
+        app: darylresume
     spec:
       containers:
-        - name: hello-kubernetes
-          image: darylwalsh/darylresume:1.0
+        - name: darylresume
+          image: darylwalsh/darylresume:1.4
           imagePullPolicy: Always
           ports:
             - containerPort: 80

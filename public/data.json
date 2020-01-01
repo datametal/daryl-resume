@@ -1,6 +1,6 @@
 {
   "name": "Daryl Walsh",
-  "blurb": "Full-Stack Application Developer with extensive DevOps/GitOps experience",
+  "blurb": "Full-Stack Application & Front End UX Developer with DevOps experience",
   "links": [
     {
       "title": "daryl@blpc.us",
@@ -17,63 +17,62 @@
       "title": "gitlab.com/darylwalsh",
       "url": "https://www.gitlab.com/darylwalsh",
       "icon": "fab fa-gitlab"
-    },
-    {
-      "title": "Daryl Walsh PDF",
-      "url": "https://github.com/darylwalsh/darylresume/raw/master/DarylWalshResume.pdf",
-      "icon": "fas fa-file-pdf"
     }
   ],
   "experiences": [
     {
       "title": "ExamBuilder",
-      "timestamp": "Javascript, React, Bootstrap, CSS, HTML, Oracle",
+      "timestamp": "June 2018-November 2019 remote",
       "points": [
         "Role –  Developer - Contract",
 
-        "Developed update version of ExamBuilder’s exam building application which is used by companies such as UBS, Microsoft, Medtronic to build, administer and track exams given to employees.",
+        "Developed updated version of ExamBuilder’s exam building application which is used by companies such as UBS, Microsoft, Medtronic to build, administer and track exams given to employees.",
         "• Worked with another developer to formulate a Ruby on Rails REST style framework (no code generation, only for organizing code).",
-        "• Divided actual building of application with 2nd developer so each developer was responsible for all aspects (front-end and back-end/full-stack development) of their part of the application.",
-        "• Calls to Oracle database were made to Oracle stored procedures via REST interface",
-        "•  RESTful Interface used to deliver data to front-end and to validate and write data to Oracle database.",
-        "• Front-end written in HTML, CSS and Javascript using javascript based React.",
-        "• ExamBuilder application in production for a decade was updated after we completed development and our code is currently in service to companies in the U.S., Canada, Europe and Asia."
+        "• Divided actual building of application with 2nd developer so each developer was responsible for all aspects (front-end and  back-end/full-stack development) of their part of the application.",
+        "• Calls to Oracle database were made to stored procedures via REST interface",
+        "• RESTful Interface used to deliver data to front-end and to validate and write data to Oracle database.",
+        "• Front-end written in HTML, CSS and Javascript based React.",
+        "• ExamBuilder application in production for more than a decade prior to our update. We completed a comprehensive update and our code is currently in service to companies in the U.S., Canada, Europe and Asia."
       ]
     },
     {
       "title": "Avanzado",
-      "timestamp": "React.js, Bootstrap, Express, Node.js, GIT, HTML/HTML 5, CSS/CSS3, Responsive Design, Ansible",
+      "timestamp": "February 2017-May 2018 Michigan",
       "points": [
         "Developed and maintained web and intranet applications for printing industry clients.",
-        "Also designed and developed Ansible based process to migrate hosting from on-premise to cloud."
+        "Also designed and developed Ansible based process to migrate hosting from on-premise to cloud.",
+        "React.js, Bootstrap, Express, Node.js, GIT, HTML/HTML 5, CSS/CSS3, Responsive Design, Ansible"
       ]
     },
     {
       "title": "ADMI",
-      "timestamp": "Node, React, GIT, HTML, CSS, Bootstrap, Responsive Design, Oracle",
+      "timestamp": "June 2015-November 2016 Michigan",
       "points": [
-        "Developed extranet applications to interface with external clients and allow client self-service/data retrieval for auto industry clients."
+        "Developed extranet applications to interface with external clients and allow client self-service/data retrieval for auto industry clients.",
+        "Node, React, GIT, HTML, CSS, Bootstrap, Responsive Design, Oracle"
       ]
     },
     {
       "title": "Blue Cross Blue Shield of Michigan",
-      "timestamp": "Angular.js, SQL Server, Bootstrap, SASS, ColdFusion, Express, Node.js, Jasmine, bower, grunt, GIT, HTML/HTML 5, CSS/CSS3, Responsive Design, Ajax",
+      "timestamp": "October 2014-May 2015",
       "points": [
-        "Lead developer on a project to build on internal application to facilitate internal application development, approval and source control at Blue Cross and Blue Shield of Michigan in downtown Detroit. "
+        "Lead developer on a project to build on internal application to facilitate internal application development, approval and source control at Blue Cross and Blue Shield of Michigan in downtown Detroit. ",
+        "Angular.js, SQL Server, Bootstrap, SASS, ColdFusion, Express, Node.js, Jasmine, bower, grunt, GIT, HTML/HTML 5, CSS/CSS3, Responsive Design, Ajax"
       ]
     },
     {
       "title": "dotomi",
-      "timestamp": " Angular.js, MongoDB, Express, Node.js, Protractor, Karma, Jasmine, bower, grunt, HTML/HTML 5, CSS/CSS3, Responsive Design, Ajax",
+      "timestamp": "June 2014-December 2014 Illinois",
       "points": [
         "Contract Web Developer for an external, responsive Client Access Portal built in angular.js, node.js, Express, MongoDB.",
         "Using Protractor for automated end to end testing and Karma for unit testing.",
-        "The CAP (Client Access Portal) project served as a model application for development using the MEAN platform with automated testing."
+        "The CAP (Client Access Portal) project served as a model application for development using the MEAN platform with automated testing.",
+        " Angular.js, MongoDB, Express, Node.js, Protractor, Karma, Jasmine, bower, grunt, HTML/HTML 5, CSS/CSS3, Responsive Design, Ajax"
       ]
     },
     {
       "title": "Discovery Communications",
-      "timestamp": "jQuery, Javascript, Angular.js, require.js, HTML/HTML 5, CSS/CSS3, jQuery Mobile, Foundation, Bootstrap, Ajax, Flash, PHP, CFM, Ajax",
+      "timestamp": "April 2013-June 2014 Illinois",
 
       "points": [
         "Contract Web Developer for various projects including:",
@@ -90,13 +89,22 @@
         " Set up video delivery using node.js and HTML5",
         " Set up a ‘Golden Ticket’ contest, including all database and front-end development.",
 
-        "Transformed a 90-minute manual procedure into a 30-second automated one (per batch of 100 clients), dramatically increasing operational efficiency.",
-        "Integrated with external APIs to read and write to CSVs, produce and rasterize PDFs, and send emails."
+        "jQuery, Javascript, Angular.js, require.js, HTML/HTML 5, CSS/CSS3, jQuery Mobile, Foundation, Bootstrap, Ajax, Flash, PHP, CFM, Ajax"
+      ]
+    },
+    {
+      "title": "G7W Enterprises",
+      "timestamp": "June 2013-March 2013 Illinois",
+      "points": [
+        "Implemented Reponsys email marketing campaign and tied it into a SQL Server back-end via Responsys SOAP API:",
+        "- Connected a travel site database containing over a million registered users.",
+        "Set up Google Analytics and related reports via Google’s API. ",
+        "- Set up Google Analytics tracking and reports for an ecommerce website."
       ]
     },
     {
       "title": "Chicago Sun-Times",
-      "timestamp": " HTML/HTML 5, CSS/CSS3, jQuery, Ajax, Flash, PHP, Ruby on Rails, Python/PERL, JSP, CFM, Ajax and Cache",
+      "timestamp": "January 2011-January 2013 Illinois",
 
       "points": [
         "Senior Developer for various projects including:",
@@ -113,89 +121,97 @@
         "• Implemented interstitial ads for the Sun-Times;",
         "• Implementing social media log-in and connected it to the back-end CMS throughout Sun-Times online properties, including desktop, iPad and Android/iOS handheld devices",
         "• Set up streaming video using node.js and HTML5",
-        "• Mentored newer developers"
+        "• Mentored newer developers",
+
+        " HTML/HTML 5, CSS/CSS3, jQuery, Ajax, Flash, PHP, Ruby on Rails, Python/PERL, JSP, CFM, Ajax and Cache"
       ]
     },
     {
       "title": "Sears Holdings Corporation",
-      "timestamp": "Ajax, HTML, CSS, jQuery, HTML 5, Python, Proprietary CMS",
+      "timestamp": "June 2010 - November 2010 Illinois",
       "points": [
         "Contract Web Developer for various projects including:",
         "completing a rewrite of sears.com consumer-facing e-commerce site to integrate social media into the user's shopping experience, optimize CSS/HTML;",
-        "responsible for maintenance and updates of in-production applications via jira ticket system."
+        "responsible for maintenance and updates of in-production applications via jira ticket system.",
+        "Ajax, HTML, CSS, jQuery, HTML 5, Python, Proprietary CMS"
       ]
     },
     {
       "title": "Chicago Tribune Media",
-      "timestamp": "Ajax, HTML, CSS, jQuery, RoR, PHP, JSP",
+      "timestamp": "November 2009 – May 2010 Illinois",
       "points": [
         "Contract Web Developer working on various Tribune Company media properties",
         "including developing a Flash/Flex Facebook application for the NCAA March",
         "Madness tournament as well as maintaining in production applications.",
-        "Utilized jQuery, Prototype, CSS, xHTML, Ruby on Rails, PHP, JSP"
+        "Utilized jQuery, Prototype, CSS, xHTML, Ruby on Rails, PHP, JSP",
+        "Ajax, HTML, CSS, jQuery, RoR, PHP, JSP"
       ]
     },
     {
       "title": "Alcatel-Lucent",
-      "timestamp": "JavaScript/jQuery, ColdFusion, CSS, HTML, AJAX, Selenium, CFM, Oracle, JSP",
+      "timestamp": "December 2008- November 2009 Illinois",
       "points": [
-        " Key developer on the CARES 10 project, worked on feature upgrades from technical design to coding and development to UAT and deployment."
+        " Key developer on the CARES 10 project, worked on feature upgrades from technical design to coding and development to UAT and deployment.",
+        "JavaScript/jQuery, ColdFusion, CSS, HTML, AJAX, Selenium, CFM, Oracle, JSP"
       ]
     },
     {
       "title": "PEPSICO Chicago  (Quaker-Tropicana-Gatorade)",
-      "timestamp": "JavaScript/jQuery, ColdFusion, CSS, HTML, AJAX, Selenium, CFM, Oracle, JSP",
+      "timestamp": "December 2007-November 2008 Illinois",
       "points": [
         "Role – Developer Contract",
 
         "• Maintained and upgraded PEPSICO’s core Supply Chain Replenishment (SCR) application which combined a web-based front-end with an Oracle 9i/10g database.",
         "Additional responsibilities:",
         "• Maintained PepsiCo’s shipping application CODA (HTML/CSS/js with an Oracle back-end)",
-        "• Provided support for a jsp Documentum application."
+        "• Provided support for a jsp Documentum application.",
+        "JavaScript/jQuery, ColdFusion, CSS, HTML, AJAX, Selenium, CFM, Oracle, JSP"
       ]
     },
     {
       "title": "Nerdwerx-JJCamper",
-      "timestamp": "ColdFusion, Model-Glue, CFAJAX, CSS, HTML, SQL SERVER 2000",
+      "timestamp": "Independent Contract 2007 Illinois",
       "points": [
-        "Role - ColdFusion Developer - Contract",
+        "Role - Web Developer - Contract",
         "• Developed public site for recreational vehicle sales and storage;",
         "• Developed administration application to allow updating of site content and",
         "product inventory; admin application also allows management of sales leads and",
-        "RV storage rental. Public site allows secured processing of storage payments."
+        "RV storage rental. Public site allows secured processing of storage payments.",
+        "ColdFusion, Model-Glue, CFAJAX, CSS, HTML, SQL SERVER 2000"
       ]
     },
     {
       "title": "AARP",
-      "timestamp": "ColdFusion and SQL SERVER 2005",
+      "timestamp": "Independent contract 2007 Illinois",
       "points": [
-        "Role - ColdFusion Developer -Contract",
+        "Role - Web Developer -Contract",
         "Developed reporting system for new AARP ecommerce site, including over 30 reports on sales, keyword searches and site use. Also performed customization, upgrades and maintenance to ColdFusion based ecommerce package."
       ]
     },
     {
       "title": "Chicago Humanities Festival",
-      "timestamp": "JavaScript/jQuery, CSS, HTML, AJAX, CFM, SQL Server",
+      "timestamp": "Independent Contract 2006 remote",
       "points": [
-        "Role - ColdFusion Developer -Contract",
-
-        "• Lead ColdFusion Developer on project to create 2006 version of the Chicago Humanities Festival Website in ColdFusion and SQL SERVER."
+        "Role - Web Developer -Contract",
+        "• Lead ColdFusion Developer on project to create 2006 version of the Chicago Humanities Festival Website in ColdFusion and SQL SERVER.",
+        "JavaScript/jQuery, CSS, HTML, AJAX, CFM, SQL Server"
       ]
     },
     {
       "title": "Eshots, Inc",
-      "timestamp": "MySQL, ColdFusion, JavaScript, HTML, AJAX",
+      "timestamp": "Independent Contract 2006 remote",
       "points": [
         "Key Deliverables - Convert Eshots event manager application from one database back-end to another.• Convert an application written in CFMX with a MYSQL back-end database to an updated SQL Server database structure.",
-        "• Program user-interface enhancements in AJAX and ColdFusion",
+        "• Program user-interface enhancements in AJAX and CFML",
         "• Update XML scripts for loading Eshots primary product to its central server.",
         "• Worked directly at the client site",
-        "• 90% new development, 10% maintenance"
+        "• 90% new development, 10% maintenance",
+        "MySQL, ColdFusion, JavaScript, HTML, AJAX"
       ]
     },
     {
       "title": "Lightology, Inc",
-      "timestamp": "SQL Server, Progess, ColdFusion, Java, JavaScript, HTML, AJAX, Flash",
+      "timestamp": "November 2003 - February 2006 Illinois",
       "points": [
         "Role -Lead Developer for Lightology.com",
 
@@ -204,24 +220,26 @@
         "Full Lifecycle Application Development, Application Maintenance",
         "• Maintain and upgrade Lightology's existing Web, Intranet and Project Manager applications",
         "• Convert Lightology's existing Web, Intranet and Project Manager applications from one ERP back-end to another.",
-        "• 80% new development, 20% maintenance"
+        "• 80% new development, 20% maintenance",
+        "SQL Server, Progess, ColdFusion, Java, JavaScript, HTML, AJAX, Flash"
       ]
     },
     {
       "title": "Discover Financial Services",
-      "timestamp": "SQL Server, ColdFusion, Flash, JavaScript, HTML",
+      "timestamp": "August 2003-November 2003 Illinois",
       "points": [
         "Key Deliverables -- Developing enhancements and providing support for a learning management system.",
         "Full Lifecycle Application Development, Application Maintenance",
         "• Convert an application written in ColdFusion 5.0 to a Flash front end with ColdFusion.",
         "• Program user-interface enhancements in Flash and ColdFusion",
         "• Working directly at the client site on a team of four people",
-        "• 70% new development, 30% maintenance"
+        "• 70% new development, 30% maintenance",
+        "SQL Server, ColdFusion, Flash, JavaScript, HTML"
       ]
     },
     {
       "title": "AMD Industries",
-      "timestamp": "SQL Server 2000, ColdFusion MX, Visual Basic, Flash, JavaScript, HTML",
+      "timestamp": "January 2003 to August 2003 Illinois",
       "points": [
         "Key Deliverables - http://www.amdpop.com, System Conversion to Web-based Portal, Full Lifecycle Application Development, Application Maintenance",
         "• Converted AMD’s legacy VB/SQL Server 2000 Ordering/Shipping system to a Web-based portal using ColdFusion MX/SQL Server 2002",
@@ -232,12 +250,13 @@
         "• Responsible for full lifecycle of the application: Design, Coding, Testing,",
         "• Worked directly with the client on a team of two people",
         "• Responsible for full lifecycle of the application: Design, Coding, Testing, Debugging, Implementation, User Training",
-        "• 90% new development, 10% maintenance"
+        "• 90% new development, 10% maintenance",
+        "SQL Server 2000, ColdFusion MX, Visual Basic, Flash, JavaScript, HTML"
       ]
     },
     {
       "title": "Liquidprint",
-      "timestamp": "SQL Server (7.0/2000), CFM, ASP, XML, JavaScript, Flash, Oracle, Access, HTML, ActionScript, CFC’s",
+      "timestamp": "February 2001 to December 2002 Illinois",
       "points": [
         "Role - Web Application Developer",
         "Key Deliverables - Web Site Application Development / Maintenance, Database Design / Development, ColdFusion/ASP Coding, Client Communications, Full Lifecycle Development",
@@ -271,7 +290,9 @@
         "• Programmed SOAP calls using XML",
         "• Oracle database and ASP.Net site",
 
-        "Additional projects worked on include: http://www.gmacrealestate.com/ http://www.performancebike.com/ , http://www.carlsonre.com/"
+        "Additional projects worked on include: http://www.gmacrealestate.com/ http://www.performancebike.com/ , http://www.carlsonre.com/",
+
+        "SQL Server (7.0/2000), CFM, ASP, XML, JavaScript, Flash, Oracle, Access, HTML, ActionScript, CFC’s"
       ]
     }
   ],
@@ -388,6 +409,13 @@
       "Express",
       "Vue",
       "Angular"
+    ],
+    "uidesigns": [
+      "Adobe Creative Suite (Photoshop, Illustrator, XD)",
+      "Sketch",
+      "Moqups",
+      "GIMP",
+      "Balsamiq"
     ],
     "middlewares": ["Node", "Phoenix", "PHP", "Ruby on Rails", "Spring Boot"],
     "testings": [

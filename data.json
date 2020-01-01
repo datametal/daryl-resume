@@ -404,6 +404,13 @@
       "Vue",
       "Angular"
     ],
+    "uidesigns": [
+      "Adobe Creative Suite (Photoshop, Illustrator, XD)",
+      "Sketch",
+      "Moqups",
+      "GIMP",
+      "Balsamiq"
+    ],
     "middlewares": ["Node", "Phoenix", "PHP", "Ruby on Rails", "Spring Boot"],
     "testings": [
       "Jest",
