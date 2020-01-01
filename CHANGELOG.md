@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.29](https://github.com/darylwalsh/darylresume/compare/v0.1.28...v0.1.29) (2020-01-01)
+
+
+### Features
+
+* **microk8s:** migrate to microk8s ([b3855f3](https://github.com/darylwalsh/darylresume/commit/b3855f30bb8922af50ad8dc49a75884f33bf865c))
+
 ### [0.1.28](https://github.com/darylwalsh/darylresume/compare/v0.1.27...v0.1.28) (2019-11-25)
 
 
