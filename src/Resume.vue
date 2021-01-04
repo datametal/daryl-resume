@@ -3,7 +3,7 @@
     <resume-header v-bind="headerData" />
     <div class="content">
       <skills v-bind="skillsData" />
-      <projects :data="projectsData" />
+      <!-- <projects :data="projectsData" /> -->
       <experience :data="experienceData" />
       <education :data="educationData" />
       <!-- <div class="column left">
@@ -24,7 +24,7 @@ import _ from 'lodash'
 import Header from '@/components/Header.vue'
 import Experience from '@/components/Experience.vue'
 import Skills from '@/components/Skills.vue'
-import Projects from '@/components/Projects.vue'
+// import Projects from '@/components/Projects.vue'
 import Education from '@/components/Education.vue'
 import Badge from '@/components/Badge.vue'
 
@@ -42,9 +42,9 @@ export default {
     skillsData: function() {
       return this.data.skills
     },
-    projectsData: function() {
-      return this.data.projects
-    },
+    // projectsData: function() {
+    //   return this.data.projects
+    // },
     educationData: function() {
       return this.data.education
     },
@@ -57,7 +57,7 @@ export default {
     'resume-header': Header,
     Experience,
     Skills,
-    Projects,
+    // Projects,
     Education,
     Badge,
   },

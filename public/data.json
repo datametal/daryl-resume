@@ -3,8 +3,8 @@
   "blurb": "Full-Stack Application & Front End UX Developer with DevOps experience",
   "links": [
     {
-      "title": "daryl@blpc.us",
-      "url": "mailto:daryl@blpc.us",
+      "title": "dwalsh@nexient.com",
+      "url": "mailto:dwalsh@nexient.com",
       "icon": "fas fa-envelope",
       "newtab": false
     },
@@ -21,11 +21,39 @@
   ],
   "experiences": [
     {
+      "title": "Levi's",
+      "timestamp": "June 2020-December 2020",
+      "points": [
+        "Role –  Senior Developer - Vue",
+        "Developed Curbside Pickup, Find Online Buy-in-Store and Shop-By-Appt additions to Levi's ecommerce experience",
+        "• Worked as part of a large team spread across internal Levi's developers and outside consultants",
+        "• Front-end code in VueJS",
+        "• Vue front-end connected to Levi's internal back-end systems via GraphQL instance",
+        "• Front-end written in HTML, CSS and Javascript based Vue.",
+        "• Middleware API written in GraphQL",
+        "• Particular challenges included internationalization as Levi's deployed the functionality in more than a dozen nations",
+        "In addition to working on Levi's ecommerce site, worked on an internal to Levi's supply-chain product-design and sales/marketing application, also written in Vue."
+      ]
+    },
+    {
+      "title": "PG&E",
+      "timestamp": "January 2020-June 2020",
+      "points": [
+        "Role –  Senior Developer - React",
+        "Developed Safety Infrastructure Protection Team (SIPT) application for desktop and iPad to allow PG&E field workers to schedule and complete work assigments.",
+        "• Worked with a team of 7 to take project from conception through design and development to deployment in production",
+        "• Front-end code in React",
+        "• React front-end deployed to AWS, responsible for creating and maintaining AWS pipeline",
+        "• Front-end written in HTML, CSS and Javascript based React.",
+        "• Middleware API written in Java (Spring Boot), hosted on premise at PG&E.",
+        "• SIPT Fieldworker application in production in time for Summer 2020 fire season and still in use today."
+      ]
+    },
+    {
       "title": "ExamBuilder",
       "timestamp": "June 2018-November 2019 remote",
       "points": [
         "Role –  Developer - Contract",
-
         "Developed updated version of ExamBuilder’s exam building application which is used by companies such as UBS, Microsoft, Medtronic to build, administer and track exams given to employees.",
         "• Worked with another developer to formulate a Ruby on Rails REST style framework (no code generation, only for organizing code).",
         "• Divided actual building of application with 2nd developer so each developer was responsible for all aspects (front-end and  back-end/full-stack development) of their part of the application.",
@@ -73,7 +101,6 @@
     {
       "title": "Discovery Communications",
       "timestamp": "April 2013-June 2014 Illinois",
-
       "points": [
         "Contract Web Developer for various projects including:",
         "  http://stem.discoveryeducation.com/",
@@ -88,7 +115,6 @@
         " Implemented require.js to optimize on-demand javascript loading",
         " Set up video delivery using node.js and HTML5",
         " Set up a ‘Golden Ticket’ contest, including all database and front-end development.",
-
         "jQuery, Javascript, Angular.js, require.js, HTML/HTML 5, CSS/CSS3, jQuery Mobile, Foundation, Bootstrap, Ajax, Flash, PHP, CFM, Ajax"
       ]
     },
@@ -105,7 +131,6 @@
     {
       "title": "Chicago Sun-Times",
       "timestamp": "January 2011-January 2013 Illinois",
-
       "points": [
         "Senior Developer for various projects including:",
         "Generally responsible for maintenance and new development for all Chicago Sun-Times properties, desktop/mobile/tablet:",
@@ -122,7 +147,6 @@
         "• Implementing social media log-in and connected it to the back-end CMS throughout Sun-Times online properties, including desktop, iPad and Android/iOS handheld devices",
         "• Set up streaming video using node.js and HTML5",
         "• Mentored newer developers",
-
         " HTML/HTML 5, CSS/CSS3, jQuery, Ajax, Flash, PHP, Ruby on Rails, Python/PERL, JSP, CFM, Ajax and Cache"
       ]
     },
@@ -160,7 +184,6 @@
       "timestamp": "December 2007-November 2008 Illinois",
       "points": [
         "Role – Developer Contract",
-
         "• Maintained and upgraded PEPSICO’s core Supply Chain Replenishment (SCR) application which combined a web-based front-end with an Oracle 9i/10g database.",
         "Additional responsibilities:",
         "• Maintained PepsiCo’s shipping application CODA (HTML/CSS/js with an Oracle back-end)",
@@ -214,7 +237,6 @@
       "timestamp": "November 2003 - February 2006 Illinois",
       "points": [
         "Role -Lead Developer for Lightology.com",
-
         "Key Deliverables:",
         "--Maintain legacy Lightology e-commerce site and related Intranet and Project Manager Applications and convert site and applications to Lightology's new ERP system.",
         "Full Lifecycle Application Development, Application Maintenance",
@@ -261,37 +283,28 @@
         "Role - Web Application Developer",
         "Key Deliverables - Web Site Application Development / Maintenance, Database Design / Development, ColdFusion/ASP Coding, Client Communications, Full Lifecycle Development",
         "Responsible for the development of applications for numerous client web sites and intranets, which typically use CFM, ASP, JSP, SQL Server (7.0/2000) for development",
-
         "Worked solo or on teams ranging from 2 to 6 people",
         "Functioned as the database designer/developer and ColdFusion/ASP Coder back-end with occasional front-end responsibilities",
         "Frequent client interaction",
-
         "Full Lifecycle Development as well as code maintenance (50/50)",
-
         "http://www.grossinger.com",
         "Programmed entire site, including content management portion",
         "• Fusebox site",
         "• Does daily inventory imports using XML into SQL Server",
-
         "http://www.hometouch.com/",
         "• Intranet---Extensive Leads Management System for Buyer Representatives",
         "• Utilized XML to share Buyer lead data among various back-end systems",
         "• Fusebox Application",
-
         "http://www.fsboillinois.com",
         "• Programmed entire site, including back-end to allow client to update site",
         "• Fusebox site",
-
         "http://www.portcement.org/",
         "• Responsible for maintenance of this ASP site",
         "• ASP and SQL Server",
-
         "http://www.prufoxroach.com/pfrpublic/",
         "• Programmed SOAP calls using XML",
         "• Oracle database and ASP.Net site",
-
         "Additional projects worked on include: http://www.gmacrealestate.com/ http://www.performancebike.com/ , http://www.carlsonre.com/",
-
         "SQL Server (7.0/2000), CFM, ASP, XML, JavaScript, Flash, Oracle, Access, HTML, ActionScript, CFC’s"
       ]
     }
@@ -342,7 +355,6 @@
         "- swagger - Swagger API docs",
         "- scores - server-side Flask app for managing user scores",
         "- exercises - server-side Flask app for managing exercises",
-
         "Tools and Technologies:",
         "* Python",
         "* Flask",
@@ -353,12 +365,13 @@
         "* Cypress",
         "* Swagger",
         "* Amazon Web Services (AWS)",
-
         "Microservice Architecture, Test-Driven Development (TDD), Continuous Integration (CI), Continuous Delivery (CD), Code Coverage, Code Quality, Token-based Authentication, Containerization, Container Orchestration, Serverless Architecture"
       ]
     },
     {
-      "name": { "title": "gitopsreact" },
+      "name": {
+        "title": "gitopsreact"
+      },
       "link": {
         "title": "github.com/darylwalsh/gitopsreact-dot-com",
         "url": "https://github.com/darylwalsh/gitopsreact-dot-com"
@@ -399,6 +412,7 @@
       "React Spring"
     ],
     "libraries": [
+      "Vue",
       "React",
       "React Native",
       "React Hooks",
@@ -407,17 +421,24 @@
       "Next.js",
       "Gatsby",
       "Express",
-      "Vue",
       "Angular"
     ],
     "uidesigns": [
       "Adobe Creative Suite (Photoshop, Illustrator, XD)",
       "Sketch",
+      "Figma",
+      "Abstract",
       "Moqups",
       "GIMP",
       "Balsamiq"
     ],
-    "middlewares": ["Node", "Phoenix", "PHP", "Ruby on Rails", "Spring Boot"],
+    "middlewares": [
+      "Node",
+      "Phoenix",
+      "PHP",
+      "Ruby on Rails",
+      "Spring Boot"
+    ],
     "testings": [
       "Jest",
       "RTL",
@@ -430,7 +451,12 @@
       "Mocha",
       "Selenium"
     ],
-    "scriptings": ["Elixir", "Python", "Go", "Shell Scripting"],
+    "scriptings": [
+      "Elixir",
+      "Python",
+      "Go",
+      "Shell Scripting"
+    ],
     "databases": [
       "Postgres",
       "MySQL/MariaDB",
