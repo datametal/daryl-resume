@@ -1,10 +1,10 @@
 {
   "name": "Daryl Walsh",
-  "blurb": "Full-Stack Application & Front End UX Developer with DevOps experience",
+  "blurb": "Full-Stack Application & Front End Developer with DevOps experience",
   "links": [
     {
-      "title": "dwalsh@nexient.com",
-      "url": "mailto:dwalsh@nexient.com",
+      "title": "darylwalsh@gmail.com",
+      "url": "mailto:darylwalsh@gmail.com",
       "icon": "fas fa-envelope",
       "newtab": false
     },
@@ -20,8 +20,31 @@
     }
   ],
   "experiences": [
+     {
+      "title": "Nexient LLC",
+      "timestamp": "December 2019-November 2022",
+      "points": [
+        "Role – Senior Developer - React Vue Java",
+        "Consultant working directly with clients, including Williams-Sonoma, Levi's and PG&E (see details of each below)",
+      ]
+    },
     {
-      "title": "Levi's",
+      "title": "Nexient -- Williams-Sonoma",
+      "timestamp": "January 2021-September 2022",
+      "points": [
+        "Role – Senior Developer - Vue Java",
+        "Developed multiple features for WSI's various ecommerce sites and apps: fabric swatch guide, related products components, pricing component, accessibility and general enhancements and maintenance of the WSI product micro-frontend",
+        "• Worked as part of a team dedicated to the product micro-frontend component of WSI's web properties",
+        "• Front-end code in VueJS 2",
+        "• Front-end written in HTML, Tailwind CSS and Javascript based Vue.",
+        "• Spring Boot REST API",
+        "• Unit tests written in Jest and JUnit, end to end testing via Playwright",
+        "• The transition of the back-end from pre-Spring Java to Spring Boot and the front-end to a micro-frontend architecture created various day to day development challenges",
+        "• Mentored newer developers and assisted with overcoming the challenges presented by the transitioning development environments"
+      ]
+    },
+    { 
+      "title": "Nexient -- Levi's",
       "timestamp": "June 2020-December 2020",
       "points": [
         "Role –  Senior Developer - Vue",
@@ -32,15 +55,21 @@
         "• Front-end written in HTML, CSS and Javascript based Vue.",
         "• Middleware API written in GraphQL",
         "• Particular challenges included internationalization as Levi's deployed the functionality in more than a dozen nations",
-        "In addition to working on Levi's ecommerce site, worked on an internal to Levi's supply-chain product-design and sales/marketing application, also written in Vue."
+        "• In addition to working on Levi's ecommerce site, worked on an internal to Levi's supply-chain product-design and sales/marketing application, also written in Vue."
       ]
     },
     {
-      "title": "PG&E",
+      "title": "Nexient -- PG&E",
       "timestamp": "January 2020-June 2020",
       "points": [
-        "Role –  Senior Developer - React",
-        "Developed Safety Infrastructure Protection Team (SIPT) application for desktop and iPad to allow PG&E field workers to schedule and complete work assigments.",
+        "Role –  Senior Developer - React", "• Worked as part of a team dedicated to the product micro-frontend component of WSI's web properties",
+        "• Front-end code in VueJS 2",
+        "• Front-end written in HTML, Tailwind CSS and Javascript based Vue.",
+        "• Spring Boot REST API",
+        "• Unit tests written in Jest and JUnit, end to end testing via Playwright",
+        "• The transition of the back-end from pre-Spring Java to Spring Boot and the front-end to a micro-frontend architecture created various day to day development challenges",
+        "• Mentored newer developers and assisted with overcoming the challenges presented by the transitioning development environments",
+        "• Developed Safety Infrastructure Protection Team (SIPT) application for desktop and iPad to allow PG&E field workers to schedule and complete work assigments.",
         "• Worked with a team of 7 to take project from conception through design and development to deployment in production",
         "• Front-end code in React",
         "• React front-end deployed to AWS, responsible for creating and maintaining AWS pipeline",
