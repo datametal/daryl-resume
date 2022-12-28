@@ -25,7 +25,7 @@
       "timestamp": "December 2019-November 2022",
       "points": [
         "Role – Senior Developer - React Vue Java",
-        "Consultant working directly with clients, including Williams-Sonoma, Levi's and PG&E (see details of each below)",
+        "Consultant working directly with clients, including Williams-Sonoma, Levi's and PG&E (see details of each below)"
       ]
     },
     {
@@ -432,6 +432,7 @@
       "TypeScript",
       "HTML",
       "CSS",
+      "Tailwind",
       "jQuery",
       "SASS",
       "Bootstrap",
@@ -470,6 +471,7 @@
     ],
     "testings": [
       "Jest",
+      "Playwright",
       "RTL",
       "Cypress",
       "Cucumber",
