@@ -69,7 +69,7 @@
         "• Unit tests written in Jest and JUnit, end to end testing via Playwright",
         "• The transition of the back-end from pre-Spring Java to Spring Boot and the front-end to a micro-frontend architecture created various day to day development challenges",
         "• Mentored newer developers and assisted with overcoming the challenges presented by the transitioning development environments",
-        "• Developed Safety Infrastructure Protection Team (SIPT) application for desktop and iPad to allow PG&E field workers to schedule and complete work assigments.",
+        "• Developed Safety Infrastructure Protection Team (SIPT) application for desktop and iPad to allow PG&E field workers to schedule and complete work assignments.",
         "• Worked with a team of 7 to take project from conception through design and development to deployment in production",
         "• Front-end code in React",
         "• React front-end deployed to AWS, responsible for creating and maintaining AWS pipeline",
@@ -151,7 +151,7 @@
       "title": "G7W Enterprises",
       "timestamp": "June 2013-March 2013 Illinois",
       "points": [
-        "Implemented Reponsys email marketing campaign and tied it into a SQL Server back-end via Responsys SOAP API:",
+        "Implemented Responsys email marketing campaign and tied it into a SQL Server back-end via Responsys SOAP API:",
         "- Connected a travel site database containing over a million registered users.",
         "Set up Google Analytics and related reports via Google’s API. ",
         "- Set up Google Analytics tracking and reports for an ecommerce website."
@@ -272,7 +272,7 @@
         "• Maintain and upgrade Lightology's existing Web, Intranet and Project Manager applications",
         "• Convert Lightology's existing Web, Intranet and Project Manager applications from one ERP back-end to another.",
         "• 80% new development, 20% maintenance",
-        "SQL Server, Progess, ColdFusion, Java, JavaScript, HTML, AJAX, Flash"
+        "SQL Server, Progress, ColdFusion, Java, JavaScript, HTML, AJAX, Flash"
       ]
     },
     {
