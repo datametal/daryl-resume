@@ -32,14 +32,15 @@
       "title": "Nexient -- Williams-Sonoma",
       "timestamp": "January 2021-September 2022",
       "points": [
-        "Role – Senior Developer - Vue Java",
+        "Role – Senior Developer - Vue React Java",
         "Developed multiple features for WSI's various ecommerce sites and apps: fabric swatch guide, related products components, pricing component, accessibility and general enhancements and maintenance of the WSI product micro-frontend",
         "• Worked as part of a team dedicated to the product micro-frontend component of WSI's web properties",
-        "• Front-end code in VueJS 2",
+        "• Front-end code in VueJS",
         "• Front-end written in HTML, Tailwind CSS and Javascript based Vue.",
         "• Spring Boot REST API",
         "• Unit tests written in Jest and JUnit, end to end testing via Playwright",
         "• The transition of the back-end from pre-Spring Java to Spring Boot and the front-end to a micro-frontend architecture created various day to day development challenges",
+        "• Internal application to manage microfront end app development written in React",
         "• Mentored newer developers and assisted with overcoming the challenges presented by the transitioning development environments"
       ]
     },
@@ -47,33 +48,29 @@
       "title": "Nexient -- Levi's",
       "timestamp": "June 2020-December 2020",
       "points": [
-        "Role –  Senior Developer - Vue",
+        "Role –  Senior Developer - React Native Vue GraphQL",
         "Developed Curbside Pickup, Find Online Buy-in-Store and Shop-By-Appt additions to Levi's ecommerce experience",
         "• Worked as part of a large team spread across internal Levi's developers and outside consultants",
-        "• Front-end code in VueJS",
+        "• Front-end code for ecommerce component written in VueJS",
         "• Vue front-end connected to Levi's internal back-end systems via GraphQL instance",
         "• Front-end written in HTML, CSS and Javascript based Vue.",
         "• Middleware API written in GraphQL",
         "• Particular challenges included internationalization as Levi's deployed the functionality in more than a dozen nations",
-        "• In addition to working on Levi's ecommerce site, worked on an internal to Levi's supply-chain product-design and sales/marketing application, also written in Vue."
+        "• In addition to working on Levi's ecommerce site, worked on an internal to Levi's supply-chain product-design and sales/marketing application, converted from Vue to React Native."
       ]
     },
     {
       "title": "Nexient -- PG&E",
       "timestamp": "January 2020-June 2020",
       "points": [
-        "Role –  Senior Developer - React", "• Worked as part of a team dedicated to the product micro-frontend component of WSI's web properties",
-        "• Front-end code in VueJS 2",
-        "• Front-end written in HTML, Tailwind CSS and Javascript based Vue.",
-        "• Spring Boot REST API",
-        "• Unit tests written in Jest and JUnit, end to end testing via Playwright",
-        "• The transition of the back-end from pre-Spring Java to Spring Boot and the front-end to a micro-frontend architecture created various day to day development challenges",
-        "• Mentored newer developers and assisted with overcoming the challenges presented by the transitioning development environments",
-        "• Developed Safety Infrastructure Protection Team (SIPT) application for desktop and iPad to allow PG&E field workers to schedule and complete work assignments.",
+        "Role –  Senior Developer - React React Native Expo AWS",
+        "• Front-end app code in React/React Native",
+        "• Front-end app written in HTML, Tailwind CSS and Javascript based React/React Native.",
+        "• Developed Safety Infrastructure Protection Team (SIPT) application for iPad and desktop to allow PG&E field workers to schedule and complete work assignments.",
         "• Worked with a team of 7 to take project from conception through design and development to deployment in production",
-        "• Front-end code in React",
-        "• React front-end deployed to AWS, responsible for creating and maintaining AWS pipeline",
-        "• Front-end written in HTML, CSS and Javascript based React.",
+        "• Front-end app code in React/React Native via ejected Expo",
+        "• React front-end app deployed to AWS, responsible for creating and maintaining AWS pipeline",
+        "• Front-end app written in HTML, CSS and Javascript based React/React Native.",
         "• Middleware API written in Java (Spring Boot), hosted on premise at PG&E.",
         "• SIPT Fieldworker application in production in time for Summer 2020 fire season and still in use today."
       ]
