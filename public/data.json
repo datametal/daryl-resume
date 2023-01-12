@@ -9,6 +9,16 @@
       "newtab": false
     },
     {
+      "title": "(989)912-5820",
+      "url": "tel:9899125820",
+      "icon": "fas fa-phone"
+    },
+     {
+      "title": "(615)209-8060",
+      "url": "tel:6152098060",
+      "icon": "fas fa-phone"
+    },
+    {
       "title": "github.com/darylwalsh",
       "url": "https://github.com/darylwalsh",
       "icon": "fab fa-github"
@@ -415,7 +425,7 @@
   ],
   "education": [
     {
-      "name": "Business Information Systems (BIS)",
+      "name": " Masters Business Information Systems (BIS)",
       "blurb": "Michigan State University"
     },
     {
@@ -438,13 +448,14 @@
       "CSS-in-JS",
       "React Spring"
     ],
-    "libraries": [
-      "Vue",
+    "frameworks": [
       "React",
       "React Native",
       "React Hooks",
       "Redux",
       "GraphQL",
+      "Vue",
+      "Node",
       "Next.js",
       "Gatsby",
       "Express",
@@ -459,12 +470,13 @@
       "GIMP",
       "Balsamiq"
     ],
-    "middlewares": [
+    "middleware": [
       "Node",
+      "Spring Boot", 
+      "Python/Flask",
       "Phoenix",
       "PHP",
-      "Ruby on Rails",
-      "Spring Boot"
+      "Ruby on Rails"
     ],
     "testings": [
       "Jest",

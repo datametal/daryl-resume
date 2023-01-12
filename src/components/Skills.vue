@@ -7,9 +7,9 @@
       </div>
     </div>
     <div class="section libs">
-      <h2>libraries</h2>
+      <h2>frameworks</h2>
       <div class="section tags">
-        <p v-for="lib in libraries" :key="lib">{{ lib }}</p>
+        <p v-for="lib in frameworks" :key="lib">{{ lib }}</p>
       </div>
     </div>
     <div class="section uidesigns">
@@ -18,10 +18,10 @@
         <p v-for="lib in uidesigns" :key="lib">{{ lib }}</p>
       </div>
     </div>
-    <div class="section middlewares">
+    <div class="section middleware">
       <h2>middleware</h2>
       <div class="section tags">
-        <p v-for="lib in middlewares" :key="lib">{{ lib }}</p>
+        <p v-for="lib in middleware" :key="lib">{{ lib }}</p>
       </div>
     </div>
     <div class="section testings">
@@ -66,10 +66,10 @@ const propType = { type: Array, default: () => [] }
 export default {
   props: {
     languages: propType,
-    libraries: propType,
+    frameworks: propType,
     technologies: propType,
     clouds: propType,
-    middlewares: propType,
+    middleware: propType,
     testings: propType,
     scriptings: propType,
     databases: propType,
@@ -118,7 +118,7 @@ h2 {
   color: $uidesign-color-dark;
 }
 
-.middlewares p {
+.middleware p {
   background-color: rgba($middleware-color, 0.22);
   color: $middleware-color-dark;
 }
