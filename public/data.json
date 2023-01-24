@@ -34,7 +34,7 @@
       "title": "Nexient LLC",
       "timestamp": "December 2019-November 2022",
       "points": [
-        "Role – Senior Developer - React Vue Java AWS Docker Ansible Jenkins Kubernetes IaC",
+        "Role – Senior Developer - React Vue Java AWS",
         "Consultant working directly with clients, including Williams-Sonoma, Levi's and PG&E (see details of each below)"
       ]
     },
@@ -42,7 +42,7 @@
       "title": "Nexient -- Williams-Sonoma",
       "timestamp": "January 2021-September 2022",
       "points": [
-        "Role – Senior Developer - Vue React Java AWS Docker Ansible Jenkins Kubernetes",
+        "Role – Senior Developer - Vue React Java AWS",
         "Developed multiple features for WSI's various ecommerce sites and apps: fabric swatch guide, related products components, pricing component, accessibility and general enhancements and maintenance of the WSI product micro-frontend",
         "• Worked as part of a team dedicated to the product micro-frontend component of WSI's web properties",
         "• Front-end code in VueJS with React for development and MFE",
@@ -58,7 +58,7 @@
       "title": "Nexient -- Levi's",
       "timestamp": "June 2020-December 2020",
       "points": [
-        "Role –  Senior Developer - React Native Vue GraphQL Neo4j Terraform IaC",
+        "Role –  Senior Developer - React Typescript Vue GraphQL Neo4j",
         "Developed Curbside Pickup, Find Online Buy-in-Store and Shop-By-Appt additions to Levi's ecommerce experience",
         "• Worked as part of a large team spread across internal Levi's developers and outside consultants",
         "• Front-end code for ecommerce component written in VueJS",
@@ -66,7 +66,7 @@
         "• Front-end written in HTML, CSS and Javascript based Vue.",
         "• Middleware API written in GraphQL",
         "• Particular challenges included internationalization as Levi's deployed the functionality in more than a dozen nations",
-        "• In addition to working on Levi's ecommerce site, worked on an internal to Levi's supply-chain product-design and sales/marketing application, converted from Vue to React Native.",
+        "• In addition to working on Levi's ecommerce site, worked on an internal to Levi's supply-chain product-design and sales/marketing application, converted from Vue to React.",
         "• Used Terraform infrastructure-as-code to create replicable CI/CD pipelines"
       ]
     },
@@ -74,7 +74,7 @@
       "title": "Nexient -- PG&E",
       "timestamp": "January 2020-June 2020",
       "points": [
-        "Role –  Senior Developer - React React Native AWS Spring Boot REST API GitHubActions CloudFormation Docker AWS EKS IaC",
+        "Role –  Senior Developer - React Typescript React Native AWS Spring Boot",
         "• Front-end app code in React/React Native",
         "• Front-end app written in HTML, Tailwind CSS and Javascript based React/React Native.",
         "• Developed Safety Infrastructure Protection Team (SIPT) application for iPad and desktop to allow PG&E field workers to schedule and complete work assignments.",
