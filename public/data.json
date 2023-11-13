@@ -30,6 +30,14 @@
     }
   ],
   "experiences": [
+      {
+        "title": "Juicy Miles LLC",
+        "timestamp": "March 2023-October 2023",
+        "points": [
+          "Role – Senior Developer - React NextJS Java AWS Docker Kubernetes Github Actions",
+          "Staff developer maintaining various public and internal applications and web and mobile presences"
+        ]
+      },
      {
       "title": "Nexient LLC",
       "timestamp": "December 2019-November 2022",
