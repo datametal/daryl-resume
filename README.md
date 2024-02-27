@@ -3,4 +3,4 @@
 
 PDF:
 
-### [https://github.com/darylwalsh/darylresume/blob/master/DarylWalshResume.pdf](https://github.com/darylwalsh/darylresume/blob/master/DarylWalshResume.pdf)
+### [https://github.com/datametal/daryl-resume/blob/master/DarylWalshResume.pdf](https://github.com/datametal/daryl-resume/blob/master/DarylWalshResume.pdf)
