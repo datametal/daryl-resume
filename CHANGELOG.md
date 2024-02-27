@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.2](https://github.com/datametal/daryl-resume/compare/v0.1.29...v0.2.2) (2024-02-27)
+
+
+### Features
+
+* **pdf:** update linked pdf and links ([cc5662a](https://github.com/datametal/daryl-resume/commit/cc5662a8b45c8338a770ba8effca0ee3441046de))
+* **resume:** updates for Feb 24 ([2a0321b](https://github.com/datametal/daryl-resume/commit/2a0321b937557c57bceb79964999d884269315cc))
+
 ### [0.1.29](https://github.com/darylwalsh/darylresume/compare/v0.1.28...v0.1.29) (2020-01-01)
 
 

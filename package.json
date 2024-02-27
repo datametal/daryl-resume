@@ -1,6 +1,6 @@
 {
   "name": "darylresume",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "resume",
   "author": "Daryl <darylwalsh@skiff.com>",
   "repository": "git@github.com:datametal/daryl-resume.git",
@@ -76,6 +76,8 @@
     "webpack": "^4.0.0"
   },
   "contributors": [
-    "Daryl <darylwalsh@skiff.com>"
+    "Daryl <daryl@blpc.us>",
+    "darylwalsh <darylwalsh@users.noreply.github.com>",
+    "Barko <brk0@waroffice.us>"
   ]
 }

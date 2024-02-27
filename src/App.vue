@@ -30,7 +30,7 @@ body {
 
   // Configure default font styling.
   font-size: 11pt;
-  font-family: 'Ubuntu Mono', 'Courier New', Courier, monospace;
+  font-family: 'Carlito', 'Calibri', 'Arial', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 

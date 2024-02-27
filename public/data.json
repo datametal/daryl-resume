@@ -32,10 +32,10 @@
         "Role – Senior Developer - React NextJS Java AWS Docker Kubernetes Github Actions",
         "Developer maintaining various public and internal applications and web and mobile presences",
         "• Spearheaded projects to migrate infrastructure from AWS ECS to Kubernetes and EC2 via IaC with Terraform, Helm and GitHub Actions",
-        "• Migrated individual applications written in Java and Next.js from GitLab and CircleCI to Github and Github ACtions and ultimately to Kubernetes on AWS EC2",
+        "• Migrated individual applications written in Java and Next.js from GitLab and CircleCI to Github and Github Actions and ultimately to Kubernetes on AWS EC2",
         "• Lead project implementing Cypress e2e testing throughout the front-end Next.js app",
         "• Converted Next.js application from NextAuth to Auth0",
-        "• Completed various front-end/CSS, React/Next.JS and Java/Kotlin JIRA stories in Agile two week sprint environment"
+        "• Completed various front-end/CSS, React/Next.JS and Java/Kotlin coding JIRA stories in Agile two week sprint environment"
       ]
     },
     {
@@ -82,7 +82,7 @@
       "title": "Nexient -- PG&E",
       "timestamp": "January 2020-June 2020",
       "points": [
-        "Role –  Senior Developer - React React Native AWS Spring Boot REST API GitHubActions CloudFormation Docker AWS EKS IaC",
+        "Role –  Senior Developer - React React Native AWS Spring Boot REST API GitHub Actions CloudFormation Docker AWS EKS IaC",
         "• Front-end app code in React/React Native",
         "• Front-end app written in HTML, Tailwind CSS and Javascript based React/React Native.",
         "• Developed Safety Infrastructure Protection Team (SIPT) application for iPad and desktop to allow PG&E field workers to schedule and complete work assignments.",
@@ -112,8 +112,8 @@
       "title": "Avanzado",
       "timestamp": "February 2017-May 2018 Michigan",
       "points": [
-        "Developed and maintained web and intranet applications for printing industry clients.",
-        "Also designed and developed Ansible based process to migrate hosting from on-premise to cloud.",
+        "• Developed and maintained web and intranet applications for printing industry clients.",
+        "• Also designed and developed Ansible based process to migrate hosting from on-premise to cloud.",
         "React.js, Bootstrap, Express, Node.js, GIT, HTML/HTML 5, CSS/CSS3, Responsive Design, Ansible"
       ]
     },
@@ -138,8 +138,8 @@
       "timestamp": "June 2014-December 2014 Illinois",
       "points": [
         "Contract Web Developer for an external, responsive Client Access Portal built in angular.js, node.js, Express, MongoDB.",
-        "Using Protractor for automated end to end testing and Karma for unit testing.",
-        "The CAP (Client Access Portal) project served as a model application for development using the MEAN platform with automated testing.",
+        "• Using Protractor for automated end to end testing and Karma for unit testing.",
+        "• The CAP (Client Access Portal) project served as a model application for development using the MEAN platform with automated testing.",
         " Angular.js, MongoDB, Express, Node.js, Protractor, Karma, Jasmine, bower, grunt, HTML/HTML 5, CSS/CSS3, Responsive Design, Ajax"
       ]
     },
@@ -148,18 +148,18 @@
       "timestamp": "April 2013-June 2014 Illinois",
       "points": [
         "Contract Web Developer for various projects including:",
-        "  http://stem.discoveryeducation.com/",
-        "   http://www.toyotateendriver.com/",
-        "   http://educationstation.discoveryeducation.com/",
-        "   http://www.discoveryeducation.com/",
+        "•  http://stem.discoveryeducation.com/",
+        "•  http://www.toyotateendriver.com/",
+        "•   http://educationstation.discoveryeducation.com/",
+        "•   http://www.discoveryeducation.com/",
         "   plus additional sites.",
         "Highlights included:",
-        " Convert Education Station to a responsive design using Foundation",
-        " Convert Toyota Teen Driver to a responsive Drupal site.",
-        " Implemented Angular.js forms on various sites.",
-        " Implemented require.js to optimize on-demand javascript loading",
-        " Set up video delivery using node.js and HTML5",
-        " Set up a ‘Golden Ticket’ contest, including all database and front-end development.",
+        "• Convert Education Station to a responsive design using Foundation",
+        "• Convert Toyota Teen Driver to a responsive Drupal site.",
+        "• Implemented Angular.js forms on various sites.",
+        "• Implemented require.js to optimize on-demand javascript loading",
+        "• Set up video delivery using node.js and HTML5",
+        "• Set up a ‘Golden Ticket’ contest, including all database and front-end development.",
         "jQuery, Javascript, Angular.js, require.js, HTML/HTML 5, CSS/CSS3, jQuery Mobile, Foundation, Bootstrap, Ajax, Flash, PHP, CFM, Ajax"
       ]
     },
@@ -168,9 +168,9 @@
       "timestamp": "June 2013-March 2013 Illinois",
       "points": [
         "Implemented Responsys email marketing campaign and tied it into a SQL Server back-end via Responsys SOAP API:",
-        "- Connected a travel site database containing over a million registered users.",
-        "Set up Google Analytics and related reports via Google’s API. ",
-        "- Set up Google Analytics tracking and reports for an ecommerce website."
+        "• Connected a travel site database containing over a million registered users.",
+        "• Set up Google Analytics and related reports via Google’s API. ",
+        "• Set up Google Analytics tracking and reports for an ecommerce website."
       ]
     },
     {
@@ -200,8 +200,8 @@
       "timestamp": "June 2010 - November 2010 Illinois",
       "points": [
         "Contract Web Developer for various projects including:",
-        "completing a rewrite of sears.com consumer-facing e-commerce site to integrate social media into the user's shopping experience, optimize CSS/HTML;",
-        "responsible for maintenance and updates of in-production applications via jira ticket system.",
+        "• Completing a rewrite of sears.com consumer-facing e-commerce site to integrate social media into the user's shopping experience, optimize CSS/HTML;",
+        "• Responsible for maintenance and updates of in-production applications via jira ticket system.",
         "Ajax, HTML, CSS, jQuery, HTML 5, Python, Proprietary CMS"
       ]
     },
@@ -210,9 +210,9 @@
       "timestamp": "November 2009 – May 2010 Illinois",
       "points": [
         "Contract Web Developer working on various Tribune Company media properties",
-        "including developing a Flash/Flex Facebook application for the NCAA March",
-        "Madness tournament as well as maintaining in production applications.",
-        "Utilized jQuery, Prototype, CSS, xHTML, Ruby on Rails, PHP, JSP",
+        "• Including developing a Flash/Flex Facebook application for the NCAA March",
+        "• Madness tournament as well as maintaining in production applications.",
+        "• Utilized jQuery, Prototype, CSS, xHTML, Ruby on Rails, PHP, JSP",
         "Ajax, HTML, CSS, jQuery, RoR, PHP, JSP"
       ]
     },
