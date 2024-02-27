@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.3](https://github.com/datametal/daryl-resume/compare/v0.2.2...v0.2.3) (2024-02-27)
+
 ### [0.2.2](https://github.com/datametal/daryl-resume/compare/v0.1.29...v0.2.2) (2024-02-27)
 
 
