@@ -6,6 +6,12 @@
         <p v-for="lib in frameworks" :key="lib">{{ lib }}</p>
       </div>
     </div>
+    <div class="section genai">
+      <h2>generative-ai</h2>
+      <div class="section tags">
+        <p v-for="genai in generativeai" :key="genai">{{ genai }}</p>
+      </div>
+    </div>
     <div class="section langs">
       <h2>front-end</h2>
       <div class="tags">
@@ -74,6 +80,8 @@ export default {
     scriptings: propType,
     databases: propType,
     uidesigns: propType,
+    genai: propType,
+    generativeai: propType,
   },
   components: { 'resume-section': Section },
 }
@@ -145,5 +153,10 @@ h2 {
 .clouds p {
   background-color: rgba($cloud-color, 0.22);
   color: $cloud-color-dark;
+}
+
+.genai p {
+  background-color: rgba($genai-color, 0.22);
+  color: $genai-color-dark;
 }
 </style>
