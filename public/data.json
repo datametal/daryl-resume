@@ -1,20 +1,15 @@
 {
   "name": "Daryl Walsh",
-  "blurb": "Full-Stack Application & Front End Developer with DevOps experience",
+  "blurb": "Full-Stack Application & Front End Developer with extensive DevOps experience and increasing LLM knowledge",
   "links": [
     {
-      "title": "darylwalsh@gmail.com",
-      "url": "mailto:darylwalsh@gmail.com",
+      "title": "darylwalsh@skiff.com",
+      "url": "mailto:darylwalsh@skiff.com",
       "icon": "fas fa-envelope",
       "newtab": false
     },
     {
-      "title": "(989)912-5820",
-      "url": "tel:9899125820",
-      "icon": "fas fa-phone"
-    },
-     {
-      "title": "(615)209-8060",
+      "title": "(615) 209-8060",
       "url": "tel:6152098060",
       "icon": "fas fa-phone"
     },
@@ -24,21 +19,26 @@
       "icon": "fab fa-github"
     },
     {
-      "title": "gitlab.com/darylwalsh",
-      "url": "https://www.gitlab.com/darylwalsh",
-      "icon": "fab fa-gitlab"
+      "title": "github.com/datametal",
+      "url": "https://github.com/datametal",
+      "icon": "fab fa-github"
     }
   ],
   "experiences": [
-      {
-        "title": "Juicy Miles LLC",
-        "timestamp": "March 2023-October 2023",
-        "points": [
-          "Role – Senior Developer - React NextJS Java AWS Docker Kubernetes Github Actions",
-          "Staff developer maintaining various public and internal applications and web and mobile presences"
-        ]
-      },
-     {
+    {
+      "title": "Juicy Miles LLC",
+      "timestamp": "January 2023-November 2023",
+      "points": [
+        "Role – Senior Developer - React NextJS Java AWS Docker Kubernetes Github Actions",
+        "Developer maintaining various public and internal applications and web and mobile presences",
+        "• Spearheaded projects to migrate infrastructure from AWS ECS to Kubernetes and EC2 via IaC with Terraform, Helm and GitHub Actions",
+        "• Migrated individual applications written in Java and Next.js from GitLab and CircleCI to Github and Github ACtions and ultimately to Kubernetes on AWS EC2",
+        "• Lead project implementing Cypress e2e testing throughout the front-end Next.js app",
+        "• Converted Next.js application from NextAuth to Auth0",
+        "• Completed various front-end/CSS, React/Next.JS and Java/Kotlin JIRA stories in Agile two week sprint environment"
+      ]
+    },
+    {
       "title": "Nexient LLC",
       "timestamp": "December 2019-November 2022",
       "points": [
@@ -62,7 +62,7 @@
         "• Mentored newer developers and assisted with overcoming the challenges presented by the transitioning development environments"
       ]
     },
-    { 
+    {
       "title": "Nexient -- Levi's",
       "timestamp": "June 2020-December 2020",
       "points": [
@@ -235,123 +235,6 @@
         "• Provided support for a jsp Documentum application.",
         "JavaScript/jQuery, ColdFusion, CSS, HTML, AJAX, Selenium, CFM, Oracle, JSP"
       ]
-    },
-    {
-      "title": "Nerdwerx-JJCamper",
-      "timestamp": "Independent Contract 2007 Illinois",
-      "points": [
-        "Role - Web Developer - Contract",
-        "• Developed public site for recreational vehicle sales and storage;",
-        "• Developed administration application to allow updating of site content and",
-        "product inventory; admin application also allows management of sales leads and",
-        "RV storage rental. Public site allows secured processing of storage payments.",
-        "ColdFusion, Model-Glue, CFAJAX, CSS, HTML, SQL SERVER 2000"
-      ]
-    },
-    {
-      "title": "AARP",
-      "timestamp": "Independent contract 2007 Illinois",
-      "points": [
-        "Role - Web Developer -Contract",
-        "Developed reporting system for new AARP ecommerce site, including over 30 reports on sales, keyword searches and site use. Also performed customization, upgrades and maintenance to ColdFusion based ecommerce package."
-      ]
-    },
-    {
-      "title": "Chicago Humanities Festival",
-      "timestamp": "Independent Contract 2006 remote",
-      "points": [
-        "Role - Web Developer -Contract",
-        "• Lead ColdFusion Developer on project to create 2006 version of the Chicago Humanities Festival Website in ColdFusion and SQL SERVER.",
-        "JavaScript/jQuery, CSS, HTML, AJAX, CFM, SQL Server"
-      ]
-    },
-    {
-      "title": "Eshots, Inc",
-      "timestamp": "Independent Contract 2006 remote",
-      "points": [
-        "Key Deliverables - Convert Eshots event manager application from one database back-end to another.• Convert an application written in CFMX with a MYSQL back-end database to an updated SQL Server database structure.",
-        "• Program user-interface enhancements in AJAX and CFML",
-        "• Update XML scripts for loading Eshots primary product to its central server.",
-        "• Worked directly at the client site",
-        "• 90% new development, 10% maintenance",
-        "MySQL, ColdFusion, JavaScript, HTML, AJAX"
-      ]
-    },
-    {
-      "title": "Lightology, Inc",
-      "timestamp": "November 2003 - February 2006 Illinois",
-      "points": [
-        "Role -Lead Developer for Lightology.com",
-        "Key Deliverables:",
-        "--Maintain legacy Lightology e-commerce site and related Intranet and Project Manager Applications and convert site and applications to Lightology's new ERP system.",
-        "Full Lifecycle Application Development, Application Maintenance",
-        "• Maintain and upgrade Lightology's existing Web, Intranet and Project Manager applications",
-        "• Convert Lightology's existing Web, Intranet and Project Manager applications from one ERP back-end to another.",
-        "• 80% new development, 20% maintenance",
-        "SQL Server, Progress, ColdFusion, Java, JavaScript, HTML, AJAX, Flash"
-      ]
-    },
-    {
-      "title": "Discover Financial Services",
-      "timestamp": "August 2003-November 2003 Illinois",
-      "points": [
-        "Key Deliverables -- Developing enhancements and providing support for a learning management system.",
-        "Full Lifecycle Application Development, Application Maintenance",
-        "• Convert an application written in ColdFusion 5.0 to a Flash front end with ColdFusion.",
-        "• Program user-interface enhancements in Flash and ColdFusion",
-        "• Working directly at the client site on a team of four people",
-        "• 70% new development, 30% maintenance",
-        "SQL Server, ColdFusion, Flash, JavaScript, HTML"
-      ]
-    },
-    {
-      "title": "AMD Industries",
-      "timestamp": "January 2003 to August 2003 Illinois",
-      "points": [
-        "Key Deliverables - http://www.amdpop.com, System Conversion to Web-based Portal, Full Lifecycle Application Development, Application Maintenance",
-        "• Converted AMD’s legacy VB/SQL Server 2000 Ordering/Shipping system to a Web-based portal using ColdFusion MX/SQL Server 2002",
-        "• Also added the ability for AMD’s customers to place orders via the Web, view Order status and generate custom Excel reports",
-        "• Order status and generate custom Excel reports",
-        "• Programmed user-interface enhancements in JavaScript and Flash",
-        "• Worked directly with the client on a team of two people",
-        "• Responsible for full lifecycle of the application: Design, Coding, Testing,",
-        "• Worked directly with the client on a team of two people",
-        "• Responsible for full lifecycle of the application: Design, Coding, Testing, Debugging, Implementation, User Training",
-        "• 90% new development, 10% maintenance",
-        "SQL Server 2000, ColdFusion MX, Visual Basic, Flash, JavaScript, HTML"
-      ]
-    },
-    {
-      "title": "Liquidprint",
-      "timestamp": "February 2001 to December 2002 Illinois",
-      "points": [
-        "Role - Web Application Developer",
-        "Key Deliverables - Web Site Application Development / Maintenance, Database Design / Development, ColdFusion/ASP Coding, Client Communications, Full Lifecycle Development",
-        "Responsible for the development of applications for numerous client web sites and intranets, which typically use CFM, ASP, JSP, SQL Server (7.0/2000) for development",
-        "Worked solo or on teams ranging from 2 to 6 people",
-        "Functioned as the database designer/developer and ColdFusion/ASP Coder back-end with occasional front-end responsibilities",
-        "Frequent client interaction",
-        "Full Lifecycle Development as well as code maintenance (50/50)",
-        "http://www.grossinger.com",
-        "Programmed entire site, including content management portion",
-        "• Fusebox site",
-        "• Does daily inventory imports using XML into SQL Server",
-        "http://www.hometouch.com/",
-        "• Intranet---Extensive Leads Management System for Buyer Representatives",
-        "• Utilized XML to share Buyer lead data among various back-end systems",
-        "• Fusebox Application",
-        "http://www.fsboillinois.com",
-        "• Programmed entire site, including back-end to allow client to update site",
-        "• Fusebox site",
-        "http://www.portcement.org/",
-        "• Responsible for maintenance of this ASP site",
-        "• ASP and SQL Server",
-        "http://www.prufoxroach.com/pfrpublic/",
-        "• Programmed SOAP calls using XML",
-        "• Oracle database and ASP.Net site",
-        "Additional projects worked on include: http://www.gmacrealestate.com/ http://www.performancebike.com/ , http://www.carlsonre.com/",
-        "SQL Server (7.0/2000), CFM, ASP, XML, JavaScript, Flash, Oracle, Access, HTML, ActionScript, CFC’s"
-      ]
     }
   ],
   "projects": [
@@ -418,7 +301,7 @@
         "title": "gitopsreact"
       },
       "link": {
-        "title": "github.com/darylwalsh/gitopsreact-dot-com",
+        "title": "github.com/darylwalsh",
         "url": "https://github.com/darylwalsh/gitopsreact-dot-com"
       },
       "points": [
@@ -455,84 +338,107 @@
       "Emotion",
       "Bulma",
       "CSS-in-JS",
-      "React Spring"
+      "Styled Components",
+      "Atomic",
+      "Shadcn UI",
+      "Materialize"
+    ],
+    "generativeai": [
+      "LangChain",
+      "LlamaIndex",
+      "Semantic Kernel",
+      "HuggingFace models/transformers",
+      "GPT-2/3/4",
+      "Gemini/BERT",
+      "Jupyter Notebooks",
+      "TypeScript (ITypescript/OpenAI API)",
+      "Ollama",
+      "LangSmith"
     ],
     "frameworks": [
       "React",
       "React Native",
       "React Hooks",
+      "React Query",
+      "Remix",
       "Redux",
       "GraphQL",
-      "Vue",
+      "Apollo",
       "Node",
       "Next.js",
-      "Gatsby",
       "Express",
-      "Angular"
+      "Fastify",
+      "Nest.js",
+      "Expo",
+      "Vue",
+      "Qwik",
+      "Django"
     ],
     "uidesigns": [
-      "Adobe Creative Suite (Photoshop, Illustrator, XD)",
+      "Adobe Creative Cloud Tools",
       "Sketch",
       "Figma",
-      "Abstract",
-      "Moqups",
       "GIMP",
-      "Balsamiq"
+      "Balsamiq",
+      "Visual Copilot"
     ],
     "middleware": [
       "Node",
-      "Spring Boot", 
-      "Python/Flask",
-      "Phoenix",
-      "PHP",
-      "Ruby on Rails"
+      "Spring Boot",
+      "Ktor",
+      "Python/Flask/FastApi",
+      "Phoenix"
     ],
     "testings": [
       "Jest",
-      "Playwright",
       "RTL",
       "Cypress",
+      "Playwright",
       "Cucumber",
       "Karma",
       "Protractor",
       "Puppeteer",
       "Chai",
       "Mocha",
+      "PyUnit",
+      "JUnit",
       "Selenium"
     ],
-    "scriptings": [
-      "Elixir",
-      "Python",
-      "Go",
-      "Shell Scripting"
-    ],
+    "scriptings": ["Shell Scripting", "Python", "Elixir", "Lua", "GPTscript"],
     "databases": [
-      "Postgres",
-      "MySQL/MariaDB",
+      "Postgres/pgvector",
+      "MySQL",
       "SQL Server",
       "Oracle",
       "MongoDB",
-      "Redis",
-      "TinkerPop"
+      "Redis/Redis Stack/Vectors",
+      "GraphQL",
+      "liquibase",
+      "Prisma",
+      "DrizzleORM",
+      "Pinecone",
+      "ChromaDB",
+      "DuckDB",
+      "Neo4j"
     ],
     "clouds": [
       "Amazon Web Services (AWS)",
+      "Microsoft Azure (AZ)",
       "Google Cloud Platform (GCP)",
-      "Digital Ocean (DO)",
-      "IBM Cloud",
-      "Amplify Serverless"
+      "Digital Ocean (DO)"
     ],
     "technologies": [
-      "Ansible",
-      "Terraform",
+      "GitHub Actions",
       "Docker",
-      "Docker Compose/Swarm",
       "Kubernetes",
+      "Terraform",
       "Helm",
+      "Ansible",
+      "Docker Compose",
       "Jenkins",
-      "Git",
       "Postman",
-      "Linux (CentOS/RedHat, Debian/Ubuntu, Arch)"
+      "Linux (CentOS/RedHat, Debian/Ubuntu, Arch)",
+      "LangSmith"
     ]
   },
   "meta": {
