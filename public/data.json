@@ -328,6 +328,7 @@
   "skills": {
     "languages": [
       "Javascript",
+      "ES5, ES6, ES7-14",
       "TypeScript",
       "HTML",
       "CSS",
@@ -359,7 +360,7 @@
       "React",
       "React Native",
       "React Hooks",
-      "React Query",
+      "TanStack(React Query)",
       "Remix",
       "Redux",
       "GraphQL",
