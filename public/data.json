@@ -35,6 +35,8 @@
         "• Migrated individual applications written in Java and Next.js from GitLab and CircleCI to Github and Github Actions and ultimately to Kubernetes on AWS EC2",
         "• Lead project implementing Cypress e2e testing throughout the front-end Next.js app",
         "• Converted Next.js application from NextAuth to Auth0",
+        "• Utililized StoryBook to document and test components",
+        "• Converted Express API to Nest.js for retrieving data from Postgres",
         "• Completed various front-end/CSS, React/Next.JS and Java/Kotlin coding JIRA stories in Agile two week sprint environment"
       ]
     },
@@ -59,6 +61,7 @@
         "• Unit tests written in Jest and JUnit, end to end testing via Playwright",
         "• The transition of the back-end from pre-Spring Java to Spring Boot and the front-end to a micro-frontend architecture created various day to day development challenges",
         "• Internal application to manage microfront end app development written in React",
+        "• Utililized StoryBook to document and test components",
         "• Mentored newer developers and assisted with overcoming the challenges presented by the transitioning development environments"
       ]
     },
@@ -333,6 +336,7 @@
       "HTML",
       "CSS",
       "Tailwind",
+      "StoryBook",
       "jQuery",
       "SASS",
       "Bootstrap",
@@ -385,6 +389,8 @@
     ],
     "middleware": [
       "Node",
+      "Nest.js",
+      "Fastify",
       "Spring Boot",
       "Ktor",
       "Python/Flask/FastApi",
@@ -393,6 +399,7 @@
     "testings": [
       "Jest",
       "RTL",
+      "StoryBook",
       "Cypress",
       "Playwright",
       "Cucumber",
