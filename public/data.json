@@ -394,7 +394,8 @@
       "Spring Boot",
       "Ktor",
       "Python/Flask/FastApi",
-      "Phoenix"
+      "Phoenix",
+      "Pipedream"
     ],
     "testings": [
       "Jest",
@@ -446,7 +447,8 @@
       "Jenkins",
       "Postman",
       "Linux (CentOS/RedHat, Debian/Ubuntu, Arch)",
-      "LangSmith"
+      "LangSmith",
+      "Pipedream"
     ]
   },
   "meta": {
