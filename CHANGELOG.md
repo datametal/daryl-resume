@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.4](https://github.com/datametal/daryl-resume/compare/v0.2.3...v0.2.4) (2024-03-07)
+
+
+### Features
+
+* **javascript:** update react query to tanstack, add js specifications ([db27e6b](https://github.com/datametal/daryl-resume/commit/db27e6b0ea7a019428bd1c2e0da8850f48ceae2c))
+* **march 2024 update:** march 2024 update ([02d21fb](https://github.com/datametal/daryl-resume/commit/02d21fbc9f19e9b7a371979a24126359f137c9f8))
+
 ### [0.2.3](https://github.com/datametal/daryl-resume/compare/v0.2.2...v0.2.3) (2024-02-27)
 
 ### [0.2.2](https://github.com/datametal/daryl-resume/compare/v0.1.29...v0.2.2) (2024-02-27)
